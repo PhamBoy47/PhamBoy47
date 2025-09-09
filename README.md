@@ -1,4 +1,4 @@
-![Development](https://raw.githubusercontent.com/PhamBoy47/PhamBoy47/main/Assets/Development.gif)
+![Development](https://raw.githubusercontent.com/PhamBoy47/PhamBoy47/main/Development.gif)
 
 #                                                                 Hi there! I am Phani Raveendra
 🔭 Just coding away on a Flipkart-like project.<br>👯 Not chasing big teams, just cool collabs.<br>🤝 Looking for advice from devs who’ve done the backend grind.<br>🌱 Learning Python Full-Stack at my own pace.<br>💬 Python or HTML? That’s my lane.<br>📚 Love reading books.<br>🍳 Cooking simple meals when I need a break.<br>🎮 Play games on mobile and cricket outdoors for fun.<br>🌍 Open to learning from anyone, anywhere.
